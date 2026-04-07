@@ -1,0 +1,14 @@
+D:\Vertexture\Editor\obj\Debug\VertextureEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vertexture\Editor\obj\Debug\VertextureEditor.AssemblyInfoInputs.cache
+D:\Vertexture\Editor\obj\Debug\VertextureEditor.AssemblyInfo.cs
+D:\Vertexture\Editor\obj\Debug\VertextureEditor.csproj.CoreCompileInputs.cache
+D:\Vertexture\Build\VertextureEditor.exe
+D:\Vertexture\Build\VertextureEditor.deps.json
+D:\Vertexture\Build\VertextureEditor.runtimeconfig.json
+D:\Vertexture\Build\VertextureEditor.dll
+D:\Vertexture\Build\VertextureEditor.pdb
+D:\Vertexture\Editor\obj\Debug\VertextureEditor.dll
+D:\Vertexture\Editor\obj\Debug\refint\VertextureEditor.dll
+D:\Vertexture\Editor\obj\Debug\VertextureEditor.pdb
+D:\Vertexture\Editor\obj\Debug\VertextureEditor.genruntimeconfig.cache
+D:\Vertexture\Editor\obj\Debug\ref\VertextureEditor.dll
